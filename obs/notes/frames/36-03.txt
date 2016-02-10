@@ -6,7 +6,7 @@ Then **Moses** and the prophet **Elijah appeared**. These men had lived on the e
 ===== Important Terms: =====
 
   * **[[:mgl:obe:other:moses]]**
-  * **[[archive:ktobs:[prophet|prophet]]**
+  * **[[:mgl:obe:kt:prophet]]**
   * **[[:mgl:obe:other:elijah]]**
   * **[[:mgl:obe:kt:jesus]]**
   * **[[:mgl:obe:kt:death]]**
