@@ -11,7 +11,7 @@
   * **[[:mgl:obe:kt:prophet]]**
   * **[[:mgl:obe:other:ahab]]**
   * **[[:mgl:obe:other:king]]**
-  * **[[:mgl:obe:other:kingdom-of-israel]]**
+  * **[[:mgl:obe:other:kingdomofisrael]]**
   * **[[:mgl:obe:kt:evil]]**
   * **[[:mgl:obe:kt:worship]]**
   * **[[:mgl:obe:kt:falsegod]]**
